@@ -20,6 +20,7 @@ The TOP dataset consists of solutions for 10,000 randomly generated scenarios on
 Dataset Image
 The TOP dataset consists of solutions for 10,000 randomly generated scenarios on a 40×40 grid. It provides a detailed view of the optimization process over 100 iterations, ensuring a thorough understanding of topology optimization challenges.
 
+"C:\Users\rohit\OneDrive\intership\task4\top_dataset_pics.png"
 
 100 iterations of a sample
 
